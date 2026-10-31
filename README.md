@@ -418,4 +418,4 @@ App vs. Website | Você deve fazer um app ou um site? | http://howmuchtomakeanap
 Pitcherific | Pitcherific lhe ajuda a criar, treinar e melhorar seu pitch | http://pitcherific.com/
 
 
-> OBS: [Créditos](https://medium.com/brasil/trezentas-coisas-gratuitas-e-sensacionais-para-empreendedores-e-startups-4d054afd6395)
+> 
